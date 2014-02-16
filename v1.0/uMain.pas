@@ -1,4 +1,4 @@
-﻿///////////  VERZIJA 1.0
+﻿ ///////////  VERZIJA 1.0
 ///
 ///  Scan4You API scanner with context menu ///
 ///    bosko@globalnet.ba                  ///
